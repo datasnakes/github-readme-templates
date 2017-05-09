@@ -38,7 +38,7 @@ Place code examples here and other ways to use this project/pipeline.
 Authors
 -------
 
-* Shaurita Hutchins | [@sdhutchins](https://github.com/sdhutchins)
+* S. Hutchins | [@sdhutchins](https://github.com/sdhutchins)
 * Robert Gilmore | [@grabear](https://github.com/grabear)
 
 
