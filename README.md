@@ -38,8 +38,8 @@ Place code examples here and other ways to use this project/pipeline.
 Authors
 -------
 
-* Shaurita Hutchins [:email:](mailto:shutchins2@umc.edu) | Researcher II
-* Robert Gilmore [:email:](mailto:rgilmore@umc.edu) | Researcher II
+* Shaurita Hutchins | @sdhutchins
+* Robert Gilmore | @grabear
 
 
 License
