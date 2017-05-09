@@ -38,11 +38,11 @@ Place code examples here and other ways to use this project/pipeline.
 Authors
 -------
 
-* Shaurita Hutchins | @sdhutchins
-* Robert Gilmore | @grabear
+* Shaurita Hutchins | [@sdhutchins](https://github.com/sdhutchins)
+* Robert Gilmore | [@grabear](https://github.com/grabear)
 
 
 License
 -------
 
-[BSD © The Vallender Lab](LICENSE)
+[BSD © Datasnakes](LICENSE)
