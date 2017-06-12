@@ -1,10 +1,6 @@
 
 Github Readme Templates
 =============
-
-<!-- ![banner]() -->
-<!-- ![badge]() -->
-<!-- ![badge]() -->
 Create reusable github readme templates.
 
 Table of Contents
