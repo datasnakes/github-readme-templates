@@ -7,6 +7,7 @@ Table of Contents
 -----------------
 
 -   [Project Background](#project-background)
+-   [Dependencies](#dependencies)
 -   [Install & Setup](#install-&-setup)
 -   [Usage](#usage)
 -   [Authors](#authors)
@@ -16,6 +17,12 @@ Project Background
 ----------
 
 While designing readme documents for our Orthologs project, we decided to create this repository to help others.
+
+
+Dependencies
+---------------
+
+There are no dependencies or tools this depends on.
 
 
 Install & Setup
